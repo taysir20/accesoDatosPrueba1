@@ -1,6 +1,4 @@
+/logicaRefrescos/
 /accesoDatos/
 /auxiliares/
-/controlador/
-/interfazUsuario/
-/logicaRefrescos/
-/maquinas/
+/hibernate.cfg.xml
